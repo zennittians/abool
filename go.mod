@@ -1,3 +1,3 @@
-module github.com/harmony-one/abool
+module github.com/zennittians/abool
 
 go 1.14
